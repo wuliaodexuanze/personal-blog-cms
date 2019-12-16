@@ -13,7 +13,7 @@ ms%E7%AE%80%E4%BB%8B)
 在原有的基础上进行开发，扩展。
 
 ### 线上Dome
-[手里有糖个人博客CMS]()
+[手里有糖个人博客CMS](http://sugar.whgjh.top)
 
 ### 环境
 - 安装 `Node.js（version：8.11.0+）`
